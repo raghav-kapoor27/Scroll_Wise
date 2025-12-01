@@ -1,4 +1,4 @@
-Scroll Wise
+###Scroll Wise
 
 A browser extension designed to reduce accidental exposure to disturbing video content by blurring previews and prompting before playback.
 
