@@ -1,4 +1,4 @@
-###Scroll Wise
+<h1 style="font-size: 40px;">Mindful Scroll</h1>
 
 A browser extension designed to reduce accidental exposure to disturbing video content by blurring previews and prompting before playback.
 
